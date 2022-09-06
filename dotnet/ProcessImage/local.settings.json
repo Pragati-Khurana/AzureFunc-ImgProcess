@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "StorageConnection": "DefaultEndpointsProtocol=https;AccountName=msdocsstoragefunction148;AccountKey=nH8fsZ5gF4RVBhr+RX3458OeaSJLkKeAyXRGARvPiQkOlngEk2tnf5Oz8oeKXK1PHZVBGn30O1g4+AStYAxVcg==;EndpointSuffix=core.windows.net",
+    "StorageAccountName": "msdocsstoragefunction",
+    "ComputerVisionKey": "09c5fe4306d14c49bc6353afa416244d",
+    "ComputerVisionEndPoint":  "https://msdocscomputervision148.cognitiveservices.azure.com/"
+  }
+}
